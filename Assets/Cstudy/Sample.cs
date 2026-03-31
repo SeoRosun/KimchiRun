@@ -7,6 +7,14 @@ public class Sample : MonoBehaviour
     {
         int i = 1;
         Debug.Log($"{i}번 적 등장!");
+        i++;
+        Debug.Log($"{i}번 적 등장!");
+        i++;
+        Debug.Log($"{i}번 적 등장!");
+        i++;
+        Debug.Log($"{i}번 적 등장!");
+        i++;
+        
     }
 
     // Update is called once per frame
